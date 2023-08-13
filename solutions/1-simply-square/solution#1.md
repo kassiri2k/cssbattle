@@ -1,0 +1,14 @@
+<div></div>
+<style>
+  div{
+    height:200px;
+    width:200px;
+    background-color:#b5e0ba;
+  }
+body{
+  background-color:#5d3a3a;
+}
+  *{
+    margin:0;
+  }
+</style>
